@@ -6,13 +6,12 @@ This project is a personal CV webpage created using HTML, CSS, and Bootstrap. It
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Credits](#credits)
 
 ## Installation
 To use this CV webpage locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/my-cv.git`
-2. Navigate to the project directory: `cd my-cv`
+1. Clone the repository: `git clone https://github.com/your-username/MyCv`
+2. Navigate to the project directory: `cd MyCV`
 3. Open the `index.html` file in your preferred web browser.
 
 ## Usage
@@ -23,12 +22,6 @@ Once you have the CV webpage running, you can navigate through different section
 - **Education:** Describes my educational background, including degrees or certifications earned.
 - **Contact:** Displays my contact details, such as name, email, phone number, and LinkedIn profile link.
 
-## Screenshots
-![About Me](screenshots/about.png)
-![Skills](screenshots/skills.png)
-![Experience](screenshots/experience.png)
-![Education](screenshots/education.png)
-![Contact](screenshots/contact.png)
 
 ## Credits
 - Bootstrap: [https://getbootstrap.com/](https://getbootstrap.com/) - Used for responsive layout and styling.
